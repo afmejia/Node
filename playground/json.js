@@ -13,7 +13,7 @@
 const fs = require('fs');
 
 var originalNote = {
-  title: 'Some title',
+  title: 'Another title',
   body: 'Some body'
 };
 
